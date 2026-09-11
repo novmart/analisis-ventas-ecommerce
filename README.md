@@ -1,5 +1,5 @@
 # Análisis de ventas - The Look E-commerce
-
+   🔗 [Ver dashboard interactivo en Tableau Public](https://public.tableau.com/views/proejct-ecommerce/AnlisisdeVentas-TheLookE-commerce?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Proyecto de portfolio: SQL (BigQuery) + R + Tableau.
 
 ## Dataset
